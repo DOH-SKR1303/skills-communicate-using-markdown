@@ -2,6 +2,10 @@
 
 Practicing with the markdown training. 
 
+- [x] Make a GitHub profile
+- [ ] Complete trainings
+- [ ] Make a task list
+
 ```
 git practice
 ```
